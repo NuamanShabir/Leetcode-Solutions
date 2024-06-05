@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-Leveling up my analytical thinking
+Leveling up my analytical thinking.
